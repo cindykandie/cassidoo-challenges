@@ -80,7 +80,7 @@ const wordsToNumbersMap = {
   
   // Test the function with sample inputs
   const input1 = "seven";
-  const input2 = "seventy seven";
+  const input2 = "Twelve Thousand Three Hundred Forty Five";
   const input3 = "one million and eighty eight";
   
   
